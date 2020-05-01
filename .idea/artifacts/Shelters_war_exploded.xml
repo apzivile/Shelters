@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Shelters:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shelters_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Shelters/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Shelters" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
