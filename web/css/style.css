@@ -1,0 +1,73 @@
+body{
+    background-color: #FFFDF2;
+    font-family: 'Jost', sans-serif;
+
+}
+
+h1{
+    color: #45062E;
+    font-size: 35px;
+    margin-left: 10px;
+
+}
+.appHeadBox{
+    overflow: hidden;
+    border-bottom: 3px  solid #EBD2BE;
+}
+.appname {
+    margin-left: 10px;
+    display: flex;
+    align-items:center;
+    float: left;
+}
+nav{
+    float: right;
+    margin-top: 10px;
+}
+ul li{
+    display: inline;
+    font-size: 20px;
+    padding: 5px;
+}
+li:after {
+    content: '\00B7';
+    padding-left: 10px;
+
+}
+.nodot:after{
+    content: '\0020';
+}
+a{
+    color : #7F055F;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color:#E75A7C;
+}
+.bodybox{
+   padding: 100px;
+    width: 100%;
+}
+.bodybox img{
+    float: left;
+}
+.dogimg{
+    float: left;
+}
+.maincontent{
+    position: relative;
+    height: 400px;
+    font-size: 32px;
+    color: #7F055F;
+
+}
+.maincontent p{
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+}
+.forshelters{
+
+   float: left;
+}
