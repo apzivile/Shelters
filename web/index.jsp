@@ -29,7 +29,7 @@
             <li><a href="#">About Us</a></li>
             <li><a href="#">Contact Us</a></li>
             <li><a href="#">Sign In</a></li>
-            <li class="nodot"><a href="#">Sign Up</a></li>
+            <li class="nodot"><a href="signup.jsp">Sign Up</a></li>
         </ul>
     </nav>
 </div>
@@ -43,11 +43,12 @@
         <p>Get started by <a href="layout/shelters.jsp">browsing shelters</a></p>
         <p>Or check whole <a href="layout/animals.jsp">animal list</a></p>
     </div>
-   < <div class="forshelters">
+    <div class="forshelters">
         <p>Do you shelter animals? Or maybe you want to give your pet to another home?</p>
         <p>If yes click <a href="#">here</a> to become partners with us to expand support and exposure for your furry
             friends.</p>
     </div>
 </div>
+<p>To invoke the java servlet click <a href="registration">here</a></p>
 </body>
 </html>

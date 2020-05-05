@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Shelters:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shelters_war</output-path>
+    <root id="archive" name="Shelters_war.war">
+      <element id="artifact" artifact-name="Shelters:war exploded" />
+    </root>
+  </artifact>
+</component>
